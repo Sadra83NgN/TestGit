@@ -6,4 +6,3 @@ ali
 yasin
 purpel
 yellow
-brown
